@@ -26,7 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-> 💡 **Tip:** Browse all badge options at [shields.io](https://shields.io) and [simple icons](https://simpleicons.org).
 
 ---
 
