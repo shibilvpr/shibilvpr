@@ -1,6 +1,5 @@
 # Hi there, I'm Shibil 👋
 
-> *A short tagline about yourself — e.g. "Full-stack developer passionate about building clean, scalable products."*
 
 ---
 
