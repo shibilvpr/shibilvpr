@@ -35,19 +35,19 @@
 const shibil = {
   name        : "Shibil T.",
   title       : "Full Stack Web Developer | MERN Stack Developer",
-  location    : "Perinthalmanna, Malappuram, Kerala, India 📍",
+  location    : "Perinthalmanna, Malappuram, Kerala, India ",
   github      : "github.com/shibilvpr",
   email       : "shibilvpr@gmail.com",
   linkedin    : "linkedin.com/in/shibil-t/",
 
   education   : [
-    "Full Stack Web Development — GCE Perinthalmanna ✅",
-    "B.A. English Language & Literature — University of Calicut 🎓"
+    "Full Stack Web Development — GCE Perinthalmanna",
+    "B.A. English Language & Literature — University of Calicut "
   ],
 
   stack       : ["React.js", "Node.js", "Express.js", "MongoDB", "Next.js"],
   currentFocus: "Building scalable MERN stack applications",
-  funFact     : "I turn complex problems into elegant, user-friendly solutions 🔥",
+  funFact     : "I turn complex problems into elegant, user-friendly solutions ",
   openTo      : ["Full Stack Roles", "Freelance Projects", "Open Source Collaboration"]
 };
 ```
@@ -56,7 +56,7 @@ const shibil = {
 
 <div align="center">
 
-| 🎯 Focus | 🌱 Learning | 💼 Open To |
+| Focus | Learning | Open To |
 |:---:|:---:|:---:|
 | MERN Stack Apps | Next.js & TypeScript | Full-time / Freelance |
 | REST API Design | Cloud Deployments | Open Source Collaboration |
@@ -82,7 +82,7 @@ const shibil = {
 
 <div align="center">
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 </div>
 
